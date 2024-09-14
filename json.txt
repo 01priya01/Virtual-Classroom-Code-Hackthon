@@ -1,0 +1,8 @@
+{
+  "_id": "comment_id",
+  "lecture_id": "lecture_id",
+  "user_id": "user_id",
+  "content": "Comment content",
+  "parent_id": "parent_comment_id",
+  "created_at": "timestamp"
+}
